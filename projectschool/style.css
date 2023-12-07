@@ -1,3 +1,120 @@
-body{
-    background-color: black;
+* {
+    font-family: Calibri;
+    font-size: 20px;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+footer {
+
+    margin-bottom: 0px auto;
+}
+
+.p1 {
+    padding: 0;
+    margin-left: 80px;
+    font-size: 22px;
+}
+
+.p2 {
+    padding: 0px 0px 0px 0px;
+    margin-left: 80;
+    font-size: 28;
+}
+
+.footer-phone {
+    position: absolute;
+    padding: 0px 0px 0px 0px;
+    left: 20px;
+}
+
+.main-core1 {
+    display: inline-block;
+    width: 100%;
+    height: 400px;
+    background: #CE9;
+    padding: 200px 0px 0px 0px;
+}
+
+.top-main {
+    padding: 0px 0px 40px 0px;
+    font-size: 24px;
+    font-family: arial;
+    text-align: center;
+    margin: 0 auto;
+}
+
+.nav-header {
+    width: 720px;
+    height: 45px;
+    background-color: #CE5937;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    text-align: center;
+    position: fixed;
+    right: 0px;
+    top: 0px;
+    border-radius: 0px 0px 0px 50px;
+}
+
+.one {
+
+    position: absolute;
+    padding: 0px 0px 0px 0px;
+    width: 100%;
+    height: 100%;
+    background-color: #CE7950;
+}
+
+.img {
+    display: flex;
+    width: 200px;
+    height: 200px;
+    border-radius: 100%;
+    margin: 30px 0px 0px 25dpx;
+}
+
+.core {
+
+    text-align: center;
+    width: 50%;
+    height: 50%;
+    margin: 0 auto;
+}
+
+.h3 {
+    padding: 40px 0px 0px 0px;
+    font-size: 50px;
+}
+
+.shoolAdres {
+    margin: -50px 0px 0px 0px;
+    font-size: 16px;
+}
+
+.search {
+    width: 60%;
+    padding: 0px 0px 0px 0px;
+    margin: 0px 0px 0px 99p;
+}
+
+.imgV {
+    display: flex
+}
+
+.divT {
+    display: block;
+}
+
+.nav-footer {
+    width: 100%;
+    height: 100px;
+    background: #CE9937;
+    padding: 0px 0px 0px 0px;
+    display: flex;
+    position: absolute;
 }
