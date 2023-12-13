@@ -11,6 +11,8 @@ body{
 a {
     text-decoration: none;
     color: black;
+
+
 }
 
 img {
@@ -210,9 +212,6 @@ img {
     text-align: center;
     padding-top: 35px;
     color: gray;
-}
-
-.footer_email {
 }
 
 .phone_label {
