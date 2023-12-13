@@ -33,7 +33,7 @@ img {
     justify-content: space-around;
     border: solid 1px;
     border-radius: 20px 20px 0px 0px;
-    background-image: url(project/res/header.jpg);
+    background-image: url(res/header.jpg);
 }
 
 .header_label {
